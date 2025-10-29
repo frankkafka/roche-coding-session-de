@@ -1,0 +1,5 @@
+﻿.venv/
+.snakemake/
+__pycache__/
+data/processed/
+*.sqlite
